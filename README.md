@@ -8,7 +8,6 @@ Foco contínuo em melhoria contínua, redução de custos com soluções open-so
 
 - 🌍 **Localização:** Osasco – SP, Brasil
 - 💼 **LinkedIn:** [linkedin.com/in/gustavotecnologia](https://www.linkedin.com/in/gustavotecnologia/)
-- ✉️ **Email:** [gustavomartins0911@gmail.com](mailto:gustavomartins0911@gmail.com)
 - 🚀 **Cargo Atual:** Analista de Infraestrutura de TI Pleno @ Grupo Gequímica / Brasceras S.A.
 - 🎓 **Formação:** Tecnólogo em Redes de Computadores (UNINOVE)
 
